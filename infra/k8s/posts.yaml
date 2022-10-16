@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: faizansayyed/posts:0.0.1
+      image: faizansayyed/posts
       imagePullPolicy: Never
