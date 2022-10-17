@@ -1,10 +1,10 @@
 #Microservices with Node JS and React
 
-# 02. A Mini-Microservices App
+ A Mini-Microservices App
 
 <br/>
 
-### 02. Project Setup
+ Project Setup
 
     $ npm install -g nodemon
 
@@ -58,7 +58,7 @@
 
 <br/>
 
-### 05. Implementing a Comments Service
+ Implementing a Comments Service
 
 <br/>
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-### 06. Quick Comments Test
+ Quick Comments Test
 
 <br/>
 
@@ -96,7 +96,7 @@
 
 <br/>
 
-### 08. React Project Setup
+ React Project Setup
 <br/>
 
     $ cd client
@@ -106,41 +106,41 @@
 
 <br/>
 
-### 09. Building Post Submission
+ Building Post Submission
 
 
 
-### 10. Handling CORS Errors
+Handling CORS Errors
 
 
 
-### 11. Fetching and Rendering Posts
-
-<br/>
-
-### 12. Creating Comments
+ Fetching and Rendering Posts
 
 <br/>
 
-### 13. Displaying Comments
-<br/>
-
-### 15. Request Minimization Strategies
+ Creating Comments
 
 <br/>
 
-### 16. An Async Solution
+ Displaying Comments
+<br/>
+
+ Request Minimization Strategies
 
 <br/>
 
-### 17. Common Questions Around Async Events
+ An Async Solution
 
 <br/>
 
-### 18. Event Bus Overview
+ Common Questions Around Async Events
+
 <br/>
 
-### 19. A Basic Event Bus Implementation
+ Event Bus Overview
+<br/>
+
+ A Basic Event Bus Implementation
 
     $ cd app
     $ mkdir event-bus
@@ -155,18 +155,18 @@
 
 <br/>
 
-### 20. Emitting Events
+ Emitting Events
 
 <br/>
 
-### 21. Emitting Comment Creation Events
+ Emitting Comment Creation Events
 
 <br/>
 
-### 22. Receiving Events
+ Receiving Events
 <br/>
 
-### 23. Creating the Data Query Service
+ Creating the Data Query Service
 
 <br/>
 
