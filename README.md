@@ -1,4 +1,4 @@
-# [Stephen Grider] Microservices with Node JS and React [ENG, 2020]
+#Microservices with Node JS and React
 
 # 02. A Mini-Microservices App
 
