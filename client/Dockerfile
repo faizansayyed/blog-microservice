@@ -1,12 +1,11 @@
-# Specify a base image
 FROM node:16-alpine
 
-WORKDIR /usr/app
+ENV CI=true
+ENV WDS_SOCKET_PORT=0
 
-# Install some depenendencies
-COPY ./package.json  ./
+WORKDIR /app
+COPY package.json ./
 RUN npm install
 COPY ./ ./
 
-# Default command
 CMD ["npm", "start"]
